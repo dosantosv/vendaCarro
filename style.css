@@ -1,0 +1,22 @@
+html,
+body {
+    width: 100%;
+}
+
+.pessoal {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.carro {
+    margin-top: 20px;
+    padding: 20px;    
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    margin-right: 5px;
+}
